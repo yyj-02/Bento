@@ -1,6 +1,6 @@
 // Get the hour
-const today = new Date();
-const hour = today.getHours();
+const tdy = new Date();
+const hour = tdy.getHours();
 
 // Here you can change your name
 const name = ' Yong Jie';
